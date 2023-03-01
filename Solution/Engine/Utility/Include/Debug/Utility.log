@@ -1,0 +1,60 @@
+﻿  VIBuffer.cpp
+  TriCol.cpp
+  Transform.cpp
+  Texture.cpp
+  TerrainTex.cpp
+  Scene.cpp
+  Renderer.cpp
+  RcTex.cpp
+  RcCol.cpp
+  Pipeline.cpp
+  Management.cpp
+  LightMgr.cpp
+  Light.cpp
+  Layer.cpp
+  GameObject.cpp
+  CubeTex.cpp
+  ComponentMgr.cpp
+  Component.cpp
+  Camera.cpp
+  Calculator.cpp
+  코드를 생성하고 있습니다...
+     ../Bin\Utility.lib 라이브러리 및 ../Bin\Utility.exp 개체를 생성하고 있습니다.
+  Utility.vcxproj -> C:\Users\won41\Desktop\1팀 Don't Starve\Engine\Utility\Include\../Bin\Utility.dll
+  Utility.vcxproj -> ../Bin\Utility.pdb (Full PDB)
+          1개 파일이 복사되었습니다.
+          1개 파일이 복사되었습니다.
+  .\Engine\Header\Calculator.h
+  .\Engine\Header\Camera.h
+  .\Engine\Header\Component.h
+  .\Engine\Header\ComponentMgr.h
+  .\Engine\Header\CubeTex.h
+  .\Engine\Header\DInputMgr.h
+  .\Engine\Header\Export_Function.h
+  .\Engine\Header\Export_System.h
+  .\Engine\Header\Export_System.inl
+  .\Engine\Header\Export_Utility.h
+  .\Engine\Header\Export_Utility.inl
+  .\Engine\Header\FontMgr.h
+  .\Engine\Header\Frame.h
+  .\Engine\Header\FrameMgr.h
+  .\Engine\Header\GameObject.h
+  .\Engine\Header\GraphicDev.h
+  .\Engine\Header\Layer.h
+  .\Engine\Header\Light.h
+  .\Engine\Header\LightMgr.h
+  .\Engine\Header\Management.h
+  .\Engine\Header\MyFont.h
+  .\Engine\Header\Pipeline.h
+  .\Engine\Header\RcCol.h
+  .\Engine\Header\RcTex.h
+  .\Engine\Header\Renderer.h
+  .\Engine\Header\Scene.h
+  .\Engine\Header\TerrainTex.h
+  .\Engine\Header\Texture.h
+  .\Engine\Header\Timer.h
+  .\Engine\Header\TimerMgr.h
+  .\Engine\Header\Transform.h
+  .\Engine\Header\TriCol.h
+  .\Engine\Header\VIBuffer.h
+         33개 파일이 복사되었습니다.
